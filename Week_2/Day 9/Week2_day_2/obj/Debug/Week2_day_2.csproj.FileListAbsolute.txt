@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\bin\Debug\Week2_day_2.exe.config
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\bin\Debug\Week2_day_2.exe
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\bin\Debug\Week2_day_2.pdb
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\obj\Debug\Week2_day_2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\obj\Debug\Week2_day_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\obj\Debug\Week2_day_2.exe
+C:\Users\hp\source\repos\Week2_day_2\Week2_day_2\obj\Debug\Week2_day_2.pdb
